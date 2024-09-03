@@ -1,0 +1,25 @@
+{
+    "schemas": [
+        {
+            "name": "doc",
+            "fields": [
+                {
+                    "name": "title",
+                    "type": "string"
+                },
+                {
+                    "name": "author",
+                    "type": "string"
+                },
+                {
+                    "name": "date",
+                    "type": "date"
+                },
+                {
+                    "name": "content",
+                    "type": "string"
+                }
+            ]
+        }
+    ]
+}
